@@ -1,10 +1,13 @@
+"""
+ All examples used are from TCM-Security Programming Course
+"""
 # String: examples of string and how to use 
 print("Hello, World") #this is a string
 #you can concanate strings. print outputs the value in the box
 print("This is a "+" string!") 
 print('/n')     
 
-#Arithmetic
+#Arithmetic examples 
 print (50 + 50) #add
 print (50 - 30) #subtract
 print (50 * 20) #mutiply 
@@ -14,4 +17,36 @@ print( 40 ** 2) #EXPONENTS
 print (30 % 6) #modulo
 print (40 / 7) #divieon reminder
 print (40 // 7) # division no reminder
+
+print( '/n')
+
+#variables/Basic methods 
+# variable is an object
+"""variable"""
+age  = 25 #INTEGER
+print('age')
+name = "Deb" #string
+score = 3.5  #float 
+
+print(int(age))  
+
+#teachers quoute
+quote = "All is fair in love and war."
+print(quote)
+
+#Raising the quote 
+print(quote.upper())
+print(quote.title())
+
+
+
+
+print( '/n')
+
+
+
+#User input
+x = input("give me a number: ")
+y = input("give me another number: ")
+#print(x +y)
 
