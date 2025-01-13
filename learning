@@ -1,0 +1,17 @@
+# String: examples of string and how to use 
+print("Hello, World") #this is a string
+#you can concanate strings. print outputs the value in the box
+print("This is a "+" string!") 
+print('/n')     
+
+#Arithmetic
+print (50 + 50) #add
+print (50 - 30) #subtract
+print (50 * 20) #mutiply 
+print (50 / 10) #divide
+print (50 + 50 - 40 * 20 / 10) # PEMDAS(BODMAS)
+print( 40 ** 2) #EXPONENTS 
+print (30 % 6) #modulo
+print (40 / 7) #divieon reminder
+print (40 // 7) # division no reminder
+
